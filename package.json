@@ -1,0 +1,22 @@
+{
+  "name": "react-router-seed",
+  "version": "1.0.0",
+  "description": "react-router-seed",
+  "author": "@elyogs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elyogs/react-router-seed.git"
+  },
+  "homepage": "https://github.com/elyogs/react-router-seed#readme",
+  "dependencies": {
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
